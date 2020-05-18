@@ -1,0 +1,33 @@
+.index{
+  .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 4px 10px;
+    background: #00bc5b;
+    img{
+      vertical-align: middle;
+      margin-left: 4px;
+    }
+    p{
+      color: #fff !important;
+    }
+    .search{
+      width: 240px;
+      background: #00bc5b;
+      border-radius: 20px !important;
+    }
+  }
+}
+.section{
+  width: 100%;
+  min-height: 12px;
+  margin-top: 12px;
+  background: #fff !important;
+}
+.like{
+  width: 100%;
+  min-height: 12px;
+  margin-top: 12px;
+  background: #fff !important;
+}
