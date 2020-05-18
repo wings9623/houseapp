@@ -4,6 +4,8 @@ import { WingBlank, WhiteSpace, Flex, List } from 'antd-mobile';
 const Item = List.Item;
 class chat extends Component {
     render() {
+
+        
         return (
             <div>
                 <div className={My.top}>
